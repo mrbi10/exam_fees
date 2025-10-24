@@ -106,7 +106,5 @@ This project is open source and available under the MIT License.
 
 ---
 
-If you want, I can also **add a live badges section** for React version, GitHub Pages status, and license to make it look more professional.  
 
-Do you want me to do that?
 ```
