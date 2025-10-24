@@ -102,9 +102,4 @@ Custom domain is set to: `https://fees.mrbi.live`
 
 This project is open source and available under the MIT License.
 
-```
 
----
-
-
-```
