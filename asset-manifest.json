@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/exam_fees/static/css/main.e6c13ad2.css",
+    "main.js": "/exam_fees/static/js/main.374c0040.js",
+    "static/js/453.6f1e167e.chunk.js": "/exam_fees/static/js/453.6f1e167e.chunk.js",
+    "index.html": "/exam_fees/index.html",
+    "main.e6c13ad2.css.map": "/exam_fees/static/css/main.e6c13ad2.css.map",
+    "main.374c0040.js.map": "/exam_fees/static/js/main.374c0040.js.map",
+    "453.6f1e167e.chunk.js.map": "/exam_fees/static/js/453.6f1e167e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.374c0040.js"
+  ]
+}
