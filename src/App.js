@@ -10,7 +10,7 @@ const SHEET_GID_PLACEHOLDER = '1308953105';
 
 // UPI Configuration
 const UPI_PHONE_NUMBER = '6369189844';
-const UPI_VPA_SUFFIX = '@ybl'; 
+const UPI_VPA_SUFFIX = '@superyes'; 
 const DEVELOPER_NAME = 'Mrbi💙';
 const CONTACT_EMAIL = 'abinanthan1006@gmail.com';
 
