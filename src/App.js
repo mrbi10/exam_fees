@@ -32,7 +32,7 @@ const formatCurrency = (amount) => {
 // Function to generate the UPI Deep Link
 const getUpiLink = (amount) => {
   if (amount <= 0) return '#';
-  const vpa = `${UPI_PHONE_NUMBER}${UPI_VPA_SUFFIX}`;
+  const vpa = `hetmyerwi@okaxis`;
   const note = "Exam Fee Payment - Reg No. Check";
   // Constructs a deep link attempting to launch a UPI app (might require user interaction)
   // am is set dynamically to the exact due amount
