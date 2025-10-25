@@ -566,7 +566,7 @@ const App = () => {
           </div>
         </div>
 
-        {showPayButton && (
+        {/* {showPayButton && (
           <a
             href={getUpiLink(due)}
             target="_blank"
@@ -577,7 +577,7 @@ const App = () => {
             <DollarSign className="w-5 h-5 mr-2" />
             Pay Now {formatCurrency(due)}
           </a>
-        )}
+        )} */}
       </div>
     );
   }, [result]);
