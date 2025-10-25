@@ -20,6 +20,48 @@
   flex-wrap: wrap;
 }
 
+.pay-now-btn {
+  display: inline-block;
+  margin-top: 1rem;
+  background: linear-gradient(90deg, #ff4d4d, #ff7b00);
+  color: white;
+  padding: 0.6rem 1.4rem;
+  border-radius: 8px;
+  font-weight: 600;
+  text-decoration: none;
+  transition: all 0.2s ease;
+  text-align: center;
+}
+
+.pay-now-btn:hover {
+  transform: scale(1.05);
+  background: linear-gradient(90deg, #ff7b00, #ff4d4d);
+}
+
+.app-footer {
+  margin-top: 3rem;
+  text-align: center;
+  font-size: 0.9rem;
+  color: #555;
+  background: #f8f8f8;
+  padding: 1rem;
+  border-top: 1px solid #e5e5e5;
+}
+
+.app-footer .highlight {
+  color: #007aff;
+  font-weight: 600;
+}
+
+.app-footer a {
+  color: #007aff;
+  text-decoration: none;
+}
+
+.app-footer a:hover {
+  text-decoration: underline;
+}
+
 .app-subtitle svg {
   width: 1.25rem;
   height: 1.25rem;
